@@ -1,5 +1,8 @@
 # Hotel Booking Notification Service
 
+> **Project showcase:** [Browse the static portfolio](portfolio/index.html) · [GitHub Pages publishing guide](PORTFOLIO.md)
+
+
 A Spring Boot microservice responsible for processing hotel booking notifications using Apache Kafka in an event-driven architecture.
 
 ## Features
