@@ -1,4 +1,4 @@
-# StaySignal project portfolio
+# Hotel Booking Notification Service project portfolio
 
 This repository now includes a responsive, static case study at `portfolio/index.html`.
 
